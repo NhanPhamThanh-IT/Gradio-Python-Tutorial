@@ -1,4 +1,4 @@
-# <div align="center">Gradio Python Tutorial 🧩</div>
+# <div align="center">🧩 Gradio Python Tutorial 🧩</div>
 
 <div align="center">
 
